@@ -80,4 +80,4 @@ Se deseja contribuir para este projeto, siga os passos abaixo:
 
 Autor
 
-Desenvolvido por George Alberto(https://georgenhoba.github.io/clinicadesaude/).
+Desenvolvido por George Alberto((https://georgenhoba.github.io/Clinica-de-Saude/).
