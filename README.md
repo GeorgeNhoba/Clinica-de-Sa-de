@@ -39,7 +39,7 @@ O projeto possui a seguinte estrutura de diretórios:
 5.	└── Apresentação1.jpg
 6.	─ README.md
 
-
+____
 1.	index.html:** O arquivo principal que contém a estrutura da landing page.
 2.	css/style.css:** Arquivo responsável pela estilização da página.
 3.	img/Apresentação1.jpg:** Imagem utilizada no banner da página.
