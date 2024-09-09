@@ -47,7 +47,7 @@ ____
 Instruções de Execução
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/GeorgeNhoba/Clinica-de-Saude
    
 2. Navegue até o diretório do projeto:
    cd nome-do-repositorio
