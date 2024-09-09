@@ -50,7 +50,7 @@ Instruções de Execução
    git clone https://github.com/GeorgeNhoba/Clinica-de-Saude
    
 2. Navegue até o diretório do projeto:
-   cd nome-do-repositorio
+   Clinica-de-Saude
 
 3. Abra o arquivo `index.html` no navegador:
 1.	Você pode abrir diretamente clicando no arquivo `index.html`, ou
